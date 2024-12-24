@@ -1,9 +1,9 @@
 # colourful-login-page
-A simple login page with a colourful desing. built using just HTML and CSS. 
+A simple login page with a colorful design. built using just HTML and CSS. 
 
  This project is suitable for modern web applications, offering:  
 
-- *Responsive Design*: Looks great on mobile, tablet, and desktop.  
+- *Responsive Design*: Mobile, tablet, and desktop look great.  
 
 ## Tech Stack
 - **HTML5**
@@ -15,4 +15,4 @@ A simple login page with a colourful desing. built using just HTML and CSS.
 ## How to Use 
 1. Clone the repository:
 '''Bash 
-git clone https://github.com/dhnraihan/colourful-login-page.git
+git clone https://github.com/dhnraihan/colourful-login-page.git'''
