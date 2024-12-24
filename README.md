@@ -7,7 +7,7 @@ A simple login page with a colorful design. built using just HTML and CSS.
 
 ## Tech Stack
 - **HTML5**
-- **CSS3** (with Media Queries)
+- **CSS3** 
 
 ## Preview 
 ![Preview](preview.png)
